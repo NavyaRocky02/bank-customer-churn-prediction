@@ -1,0 +1,5 @@
+Model,Category,Accuracy,Precision,Recall,F1 Score,ROC-AUC
+Logistic Regression,Machine Learning,0.7135,0.3872,0.7002,0.4987,0.7772
+Decision Tree,Machine Learning,0.742,0.4183,0.6855,0.5196,0.7614
+Random Forest,Machine Learning,0.851,0.6477,0.5872,0.616,0.8584
+Artificial Neural Network,Deep Learning,0.8625,0.775,0.457002457002457,0.5749613601236476,0.8648031698879156
